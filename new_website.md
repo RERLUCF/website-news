@@ -22,4 +22,4 @@ To foster engagement, we have introduced new features such as a **newsletter sub
 
 We invite you to explore the new site and see the improvements for yourself. Your feedback is valuable to us, and we look forward to hearing your thoughts. Thank you for your continued support!  
 
-**Visit us here:** [RERL New Website](#)  
+**Visit us here:** [RERL New Website](https://rerllab.me)  
